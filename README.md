@@ -10,7 +10,7 @@ A modern, full-featured eCommerce platform built with React, TypeScript, and Tai
 - **Product Details**: Detailed product views with image gallery, size/color selection
 - **Shopping Cart**: Add/remove items, adjust quantities, real-time total calculation
 - **User Authentication**: Login/Register with profile management
-- **User Profile**: Order history, saved addresses, wishlist management
+- **User Profile**: Order history, saved addresses, wishlist management.
 - **Responsive Design**: Optimized for all devices (mobile, tablet, desktop)
 
 ### Admin Features

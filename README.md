@@ -98,7 +98,7 @@ npm run preview
 - **Text**: Gray scale - `#111827` to `#6b7280`
 
 ### Typography
-- **Headings**: Inter font family, bold weights
+- **Headings**: Inter font family, bold weights.
 - **Body**: Inter font family, regular weight
 - **Line Height**: 150% for body text, 120% for headings
 

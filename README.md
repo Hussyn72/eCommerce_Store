@@ -51,7 +51,7 @@ npm run preview
 
 ### 1. Homepage
 **URL**: `/`
-**Features**: Hero section, featured products, category navigation
+**Features**: Hero section, featured products, category navigation.
 
 ![Homepage](https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg)
 *Modern hero section with featured products and smooth animations*
